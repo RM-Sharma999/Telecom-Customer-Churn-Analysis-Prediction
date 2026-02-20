@@ -19,5 +19,11 @@ The primary objectives of this project are:
 
 ---
 
+## About the Dataset  
+
+The dataset contains customer-level information from a telecom or subscription-based business, including **demographic details**, **account and contract information**, **service usage**, **payment methods**, **tenure**, and **revenue metrics**, along with the **churn status** of each customer. This structured dataset provides a comprehensive view of customer behavior and supports in-depth analysis to uncover patterns, trends, and key factors influencing churn.
+
+---
+
 
 
