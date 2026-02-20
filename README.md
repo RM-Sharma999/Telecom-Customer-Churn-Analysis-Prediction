@@ -7,7 +7,7 @@
 
 ---
 
-## Objective  
+## Objective
 
 The primary objectives of this project are:
 
@@ -19,14 +19,28 @@ The primary objectives of this project are:
 
 ---
 
-## About the Dataset  
+## About the Dataset
 
 The dataset contains customer-level information from a telecom or subscription-based business, including **demographic details**, **account and contract information**, **service usage**, **payment methods**, **tenure**, and **revenue metrics**, along with the **churn status** of each customer. This structured dataset provides a comprehensive view of customer behavior and supports in-depth analysis to uncover patterns, trends, and key factors influencing churn.
 
 ---
 
-## Insights  
+## Insights
 
 ### 1. Churn by Contract Type
-Shows how churn varies across **Month-to-Month, One-Year, and Two-Year contracts**.
+- Shows how churn varies across **Month-to-Month, One-Year, and Two-Year contracts**.
+
+### 2. Churn by Internet Type
+- Highlights churn distribution among different **internet service categories**.
+
+### 3. Churn by State
+- Displays **regional variation** in customer churn.
+
+### 4. Predicted Churn by Customer Segments
+- Shows **high-risk customers** across contract type, payment method, age group, and gender.
+
+### 5. High-Risk Customer Table
+- Lists **at-risk customers** along with revenue and billing details to support targeted retention strategies.
+
+---
 
