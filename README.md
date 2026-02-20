@@ -7,4 +7,17 @@
 
 ---
 
+## Objective  
+
+The primary objectives of this project are:
+
+- To analyze **historical churn patterns** across demographics, services, contracts, and geography.
+- To identify **key factors contributing to customer churn**.
+- To measure churn performance using **key KPIs**.
+- To predict **customers who are likely to churn**.
+- To provide **actionable insights** that support customer retention strategies.
+
+---
+
+
 
