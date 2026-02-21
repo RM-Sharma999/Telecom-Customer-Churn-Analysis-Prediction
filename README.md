@@ -36,11 +36,11 @@ The dataset contains customer-level information from a telecom or subscription-b
 ### 3. Churn by State
 - Displays **regional variation** in customer churn.
 
-### 4. Predicted Churn by Customer Segments
-- Shows **high-risk customers** across contract type, payment method, age group, and gender.
+### 4. Predicted Churn by Payment Method
+- Highlights which **payment methods** have a higher concentration of customers likely to churn.
 
 ### 5. High-Risk Customer Table
-- Lists **at-risk customers** along with revenue and billing details to support targeted retention strategies.
+- Lists **high-risk customers** along with revenue and billing details for targeted retention strategies.
 
 ---
 
